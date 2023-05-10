@@ -1,0 +1,15 @@
+/* styles.css */
+body{
+    background-color: rgb(255, 250, 246);
+}
+h1{
+    color: rgb(95, 109, 126);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif 
+}
+h2{
+    background-color:lemonchiffon;
+    font-style: italic;
+}
+#ucky{
+    color:brown
+}
