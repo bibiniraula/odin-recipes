@@ -7,9 +7,24 @@ h1{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif 
 }
 h2{
-    background-color:lemonchiffon;
-    font-style: italic;
+    color:rgb(95, 109, 126)
 }
-#ucky{
+#yucky{
     color:brown
+}
+.main{
+    padding: 10px ;
+    margin: 65px;
+    border:solid
+}
+#favs{
+    color: rgb(95, 109, 126);
+    background-color:rgb(230, 244, 244);
+    font-style: italic;
+    margin:0 188px 0 188px 
+}
+.penne-whole{
+    position: absolute;
+    left: 350px; 
+    top:184px;
 }
